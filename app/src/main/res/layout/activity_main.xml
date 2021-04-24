@@ -20,6 +20,7 @@
         android:ems="10"
         android:hint="@string/mensagem"
         android:inputType="textPersonName" />
+        <!-- todo: indicar o tipo de dados a ler -->
 
     <Button
         android:id="@+id/buttonEnviar"
